@@ -24,6 +24,7 @@ public class Aula04TiposPrimitivos {
         //Tipo booleano
 
         boolean estaDeFerias = false;// true
+        boolean estaTrabalhando = true;
 
         //Tipo caractere
         //char status = 'AT'; //ativo
@@ -40,6 +41,7 @@ public class Aula04TiposPrimitivos {
 
         System.out.println(id + ": ganha ->: " + salario);
         System.out.println("Ferias? " + estaDeFerias);
+        System.out.println("Trabalhando?" + estaTrabalhando);
         System.out.println("Status: " + status);
 
     }
