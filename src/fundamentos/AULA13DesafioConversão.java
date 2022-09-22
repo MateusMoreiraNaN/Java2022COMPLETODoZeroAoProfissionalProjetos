@@ -22,7 +22,7 @@ public class AULA13DesafioConversão {
 
         double soma = SalarioDou1 + SalarioDou2 + SalarioDou3;
 
-        System.out.println("A media é: " + soma / 3);
+        System.out.println("A media é:: " + soma / 3);
 
 
 
