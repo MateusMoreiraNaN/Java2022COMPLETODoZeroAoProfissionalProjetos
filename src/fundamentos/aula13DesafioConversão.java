@@ -3,7 +3,7 @@ package fundamentos;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class AULA13DesafioConversão {
+public class aula13DesafioConversão {
     public static void main(String[] args) {
         Locale.setDefault(new Locale("pt", "BR"));
         Locale.setDefault(new Locale("en", "US"));
