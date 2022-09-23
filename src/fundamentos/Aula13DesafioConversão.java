@@ -20,9 +20,9 @@ public class Aula13DesafioConversão {
         double SalarioDou2 = Double.parseDouble(salario2);
         double SalarioDou3 = Double.parseDouble(salario3);
 
-        double soma = SalarioDou1 + SalarioDou2 + SalarioDou3;
+        double soma = SalarioDou1 + SalarioDou2 + SalarioDou3 / 2;
 
-        System.out.println("A media é:: " + soma / 3);
+        System.out.println("A media é:: " + soma);
 
 
 
