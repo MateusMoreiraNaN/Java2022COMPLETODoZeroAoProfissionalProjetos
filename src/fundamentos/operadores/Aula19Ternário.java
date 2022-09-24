@@ -1,6 +1,6 @@
 package fundamentos.operadores;
 
-public class Aula19Unários {
+public class Aula19Ternário {
     public static void main(String[] args) {
         double media = 3.6;
         //String resuldadoParcial = media >= 5.0 ? "em recuperação" : "reprovado";
