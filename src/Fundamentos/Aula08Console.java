@@ -1,6 +1,5 @@
-package fundamentos;
+package Fundamentos;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Aula08Console {

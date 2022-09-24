@@ -1,7 +1,4 @@
-package fundamentos;
-
-import java.nio.charset.IllegalCharsetNameException;
-import java.util.Scanner;
+package Fundamentos;
 
 public class Aula10Wrappers {
     public static void main(String[] args) {

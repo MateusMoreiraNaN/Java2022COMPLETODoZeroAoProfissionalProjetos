@@ -1,6 +1,5 @@
-package fundamentos;
+package Fundamentos;
 
-import javax.swing.*;
 import java.util.Date;
 
 

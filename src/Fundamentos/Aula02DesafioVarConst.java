@@ -1,4 +1,4 @@
-package fundamentos;
+package Fundamentos;
 
 public class Aula02DesafioVarConst {
     public static void main(String[] args) {

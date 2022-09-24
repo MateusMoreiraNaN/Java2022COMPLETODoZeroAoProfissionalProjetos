@@ -1,4 +1,4 @@
-package fundamentos;
+package Fundamentos;
 
 public class Aula03Inferencia {
     public static void main(String[] args) {

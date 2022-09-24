@@ -1,6 +1,4 @@
-package fundamentos;
-
-import java.util.Locale;
+package Fundamentos;
 
 public class Aula05NotaçãoPonto {
     public static void main(String[] args) {
