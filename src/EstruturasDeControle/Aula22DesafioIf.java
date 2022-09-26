@@ -5,7 +5,7 @@ public class Aula22DesafioIf {
         double nota = 1.3;
 
         /*
-        if(nota >= 9.0); {
+        if(nota >= 9.0); aqui {
             System.out.println("Quadro de Honra!");
             System.out.println("Você é fera!!!");
         }
