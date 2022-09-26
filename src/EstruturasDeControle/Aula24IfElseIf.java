@@ -16,14 +16,14 @@ public class Aula24IfElseIf {
             System.out.println("Nota inválida");
         }else if(nota >= 7.0 && nota <= 10){
             System.out.println("A");
-        }else if(nota >= 4.0 && nota <= 7.0) {
+        }else if(nota >= 4.0 && nota <= 7.0){
             System.out.println("B");
-        }else if(nota >= 0 && nota <= 4.0) {
+        }else if(nota >= 0 && nota <= 4.0){
             System.out.println("C");
         }
 
 
-        System.out.println("Fim");
+        System.out.println("Fim!");
         entrada.close();
     }
 }
