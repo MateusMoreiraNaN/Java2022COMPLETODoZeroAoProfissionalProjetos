@@ -1,6 +1,6 @@
 package ClassesEMétodos;
 
-public class ClasseProduto {
+public class Aula33ClasseProduto {
 
     String nome;
     double preco;

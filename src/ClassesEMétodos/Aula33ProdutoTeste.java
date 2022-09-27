@@ -2,18 +2,18 @@ package ClassesEMétodos;
 
 import java.util.Locale;
 
-public class ProdutoTeste {
+public class Aula33ProdutoTeste {
 
     public static void main(String[] args) {
         Locale.setDefault(new Locale("en", "US"));
 
         // new chama o construtor
-         ClasseProduto p1 = new ClasseProduto();
+         Aula33ClasseProduto p1 = new Aula33ClasseProduto();
          p1.nome = "Notebook";
          p1.preco = 4356.89;
          p1.desconto = 0.25;
 
-         var p2 = new ClasseProduto();
+         var p2 = new Aula33ClasseProduto();
          p2.nome = "Caneta Preta";
          p2.preco = 12.56;
          p2.desconto = 0.29;
