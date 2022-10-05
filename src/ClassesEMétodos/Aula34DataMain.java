@@ -15,8 +15,8 @@ public class Aula34DataMain {
         data2.mes = 9;
         data2.ano = 2022;
 
-        System.out.println(data.dia + "/" + data.mes + "/" + data.ano);
-        System.out.println(data2.dia + "/" + data2.mes + "/" + data2.ano);
+        System.out.println(data.obterDataFormatada());
+        System.out.println(data2.obterDataFormatada());
 
 
     }
