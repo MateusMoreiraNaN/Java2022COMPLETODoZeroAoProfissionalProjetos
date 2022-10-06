@@ -8,10 +8,8 @@ public class Aula33ProdutoTeste {
         Locale.setDefault(new Locale("en", "US"));
 
         // new chama o construtor
-         Aula33ClasseProduto p1 = new Aula33ClasseProduto();
-         p1.nome = "Notebook";
-         p1.preco = 4356.89;
-         p1.desconto = 0.25;
+         Aula33ClasseProduto p1 = new Aula33ClasseProduto("Notebook", 4356.89, 0.25);
+
 
          var p2 = new Aula33ClasseProduto();
          p2.nome = "Caneta Preta";
