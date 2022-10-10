@@ -17,6 +17,11 @@ public class Aula34Data {
         //ano = 2012;
 
         this(1, 1, 1970);
+
+        String s = null;
+        int a;
+        a = 15;
+        System.out.println(a);
     }
 
     String obterDataFormatada(){
