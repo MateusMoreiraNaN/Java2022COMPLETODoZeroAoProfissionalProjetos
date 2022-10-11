@@ -24,7 +24,9 @@ public class DesafioArray2 {
             total += nota;
         }
 
-        System.out.println("A média é " + (total / notas.length));
+        double media = total / notas.length;
+
+        System.out.println("A média é " + media + "!");
 
         entrada.close();
     }
