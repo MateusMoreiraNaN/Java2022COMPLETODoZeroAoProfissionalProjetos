@@ -23,8 +23,19 @@ public class usuario {
         return nome.equals(usuario.nome);
     }
 
+    /*
+    @Override
+    public int hashCode() {
+        return this.nome.length();
+    }
+    */
+
+
+
     @Override
     public int hashCode() {
         return Objects.hash(nome);
     }
+
+
 }
