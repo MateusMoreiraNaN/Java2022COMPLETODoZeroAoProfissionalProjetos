@@ -1,4 +1,6 @@
-package OrientaçãoAObjetos.Composicao;
+package OrientaçãoAObjetos.Composicao.RelacionamentoUmPraUm;
+
+import OrientaçãoAObjetos.Composicao.RelacionamentoUmPraUm.Carro;
 
 public class CarroTeste {
     public static void main(String[] args) {
