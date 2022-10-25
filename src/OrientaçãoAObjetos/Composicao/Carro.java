@@ -33,4 +33,17 @@ public class Carro {
     boolean estaLigado(){
         return motor.ligado;
     }
+
+    boolean portas(){
+        boolean portas = true;
+        if(portas == false){
+            motor.ligado = false;
+            motor.fatorInjecao = 3000;
+            System.out.println("Tem uma porta aberta");
+        }else if(portas == true){
+            motor.ligado = true;
+            System.out.println("Portas fechadas");
+        }
+        return portas;
+    }
 }
